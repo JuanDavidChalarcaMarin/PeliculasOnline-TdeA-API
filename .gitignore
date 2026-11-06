@@ -7,3 +7,7 @@ wwwroot/actores/
 wwwroot/productoras/
 wwwroot/peliculas/
 Migrations/
+
+# Configuración local de la aplicación -
+# La primera version base se mantiene y no se subiran versionamientos de los equipos de desarrollo
+appsettings.Development.json
